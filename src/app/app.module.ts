@@ -13,7 +13,7 @@ import {
   MatPaginatorModule,
   MatCheckboxModule,
   MatSelectModule,
-  MatDialogModule
+  MatDialogModule,
   } from '@angular/material';
 
 import { BrowserModule } from '@angular/platform-browser';
